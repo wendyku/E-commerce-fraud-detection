@@ -9,4 +9,4 @@ For macOS/ Linux, run
 ```
 $ pipenv install --dev
 ```
-Refer to https://github.com/pypa/pipenv for commands specific to your OS
+Refer to https://github.com/pypa/pipenv for commands specific to your OS.
