@@ -1,2 +1,4 @@
 # E-commerce-fraud-detection
-E-commerce Fraud Detection
+
+Using IEEE-CIS Transaction Fraud Detection dataset
+https://www.kaggle.com/c/ieee-fraud-detection/data
