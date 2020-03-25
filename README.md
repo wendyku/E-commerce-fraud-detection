@@ -1,12 +1,10 @@
 # E-commerce-fraud-detection
 
-Using IEEE-CIS Transaction Fraud Detection dataset
-https://www.kaggle.com/c/ieee-fraud-detection/data
-
-### Environment Set up
-Install pipenv on your device, then create and activate a virtual environment in your git project directory. Install the dependencies.
+## Environment and Data Set up
+1. Install the project dependencies in your virtual environment. Refer to https://github.com/pypa/pipenv for commands specific to your OS.
 For macOS/ Linux, run
 ```
 $ pipenv install --dev
 ```
-Refer to https://github.com/pypa/pipenv for commands specific to your OS.
+2. Download IEEE-CIS Transaction Fraud Detection dataset into subdirectory `data/` of the repo (https://www.kaggle.com/c/ieee-fraud-detection/data). There should be 5 `.csv` files in the folder.
+
