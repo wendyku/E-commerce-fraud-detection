@@ -6,5 +6,5 @@ For macOS/ Linux, run
 ```
 $ pipenv install --dev
 ```
-2. Download IEEE-CIS Transaction Fraud Detection dataset into subdirectory `data/` of the repo (https://www.kaggle.com/c/ieee-fraud-detection/data). There should be 5 `.csv` files in the folder.
+2. Download IEEE-CIS Transaction Fraud Detection dataset into subdirectory `data/` of the repo (https://www.kaggle.com/c/ieee-fraud-detection/data). The folder should contain five `.csv` files.
 
