@@ -13,6 +13,8 @@ scikit-learn = "*"
 scipy = "*"
 matplotlib = "*"
 seaborn = "*"
+xgboost = "*"
+hyperopt = "*"
 
 [requires]
 python_version = "3.7"
