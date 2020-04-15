@@ -1,0 +1,142 @@
+Modeling..
+Fitting 1 folds for each of 1 candidates, totalling 1 fits
+[Parallel(n_jobs=3)]: Using backend LokyBackend with 3 concurrent workers.
+Model 1:
+Best ROC-AUC:    0.9573
+Bestparams:OrderedDict([('clf__max_depth', 64), ('clf__max_features', 'auto'), ('clf__n_estimators', 926)])
+
+Fitting 1 folds for each of 1 candidates, totalling 1 fits
+[Parallel(n_jobs=3)]: Done   1 out of   1 | elapsed: 24.1min finished
+[Parallel(n_jobs=3)]: Using backend LokyBackend with 3 concurrent workers.
+Model 2:
+Best ROC-AUC:    0.9573
+Bestparams:OrderedDict([('clf__max_depth', 64), ('clf__max_features', 'auto'), ('clf__n_estimators', 926)])
+
+Fitting 1 folds for each of 1 candidates, totalling 1 fits
+[Parallel(n_jobs=3)]: Done   1 out of   1 | elapsed: 19.7min finished
+[Parallel(n_jobs=3)]: Using backend LokyBackend with 3 concurrent workers.
+Model 3:
+Best ROC-AUC:    0.9573
+Bestparams:OrderedDict([('clf__max_depth', 64), ('clf__max_features', 'auto'), ('clf__n_estimators', 926)])
+
+Fitting 1 folds for each of 1 candidates, totalling 1 fits
+[Parallel(n_jobs=3)]: Done   1 out of   1 | elapsed: 15.4min finished
+[Parallel(n_jobs=3)]: Using backend LokyBackend with 3 concurrent workers.
+Model 4:
+Best ROC-AUC:    0.9574
+Bestparams:OrderedDict([('clf__max_depth', 53), ('clf__max_features', 'auto'), ('clf__n_estimators', 1025)])
+
+Fitting 1 folds for each of 1 candidates, totalling 1 fits
+[Parallel(n_jobs=3)]: Done   1 out of   1 | elapsed: 25.9min finished
+[Parallel(n_jobs=3)]: Using backend LokyBackend with 3 concurrent workers.
+Model 5:
+Best ROC-AUC:    0.9578
+Bestparams:OrderedDict([('clf__max_depth', 43), ('clf__max_features', 'auto'), ('clf__n_estimators', 923)])
+
+Fitting 1 folds for each of 1 candidates, totalling 1 fits
+[Parallel(n_jobs=3)]: Done   1 out of   1 | elapsed: 23.2min finished
+[Parallel(n_jobs=3)]: Using backend LokyBackend with 3 concurrent workers.
+Model 6:
+Best ROC-AUC:    0.9578
+Bestparams:OrderedDict([('clf__max_depth', 43), ('clf__max_features', 'auto'), ('clf__n_estimators', 923)])
+
+Fitting 1 folds for each of 1 candidates, totalling 1 fits
+[Parallel(n_jobs=3)]: Done   1 out of   1 | elapsed: 17.9min finished
+[Parallel(n_jobs=3)]: Using backend LokyBackend with 3 concurrent workers.
+Model 7:
+Best ROC-AUC:    0.9578
+Bestparams:OrderedDict([('clf__max_depth', 43), ('clf__max_features', 'auto'), ('clf__n_estimators', 923)])
+
+Fitting 1 folds for each of 1 candidates, totalling 1 fits
+[Parallel(n_jobs=3)]: Done   1 out of   1 | elapsed: 19.5min finished
+[Parallel(n_jobs=3)]: Using backend LokyBackend with 3 concurrent workers.
+Model 8:
+Best ROC-AUC:    0.9578
+Bestparams:OrderedDict([('clf__max_depth', 43), ('clf__max_features', 'auto'), ('clf__n_estimators', 923)])
+
+Fitting 1 folds for each of 1 candidates, totalling 1 fits
+[Parallel(n_jobs=3)]: Done   1 out of   1 | elapsed: 23.0min finished
+[Parallel(n_jobs=3)]: Using backend LokyBackend with 3 concurrent workers.
+[Parallel(n_jobs=3)]: Done   1 out of   1 | elapsed: 19.7min finished
+Model 9:
+Best ROC-AUC:    0.9578
+Bestparams:OrderedDict([('clf__max_depth', 43), ('clf__max_features', 'auto'), ('clf__n_estimators', 923)])
+
+Fitting 1 folds for each of 1 candidates, totalling 1 fits
+[Parallel(n_jobs=3)]: Using backend LokyBackend with 3 concurrent workers.
+[Parallel(n_jobs=3)]: Done   1 out of   1 | elapsed: 17.0min finished
+Model 10:
+Best ROC-AUC:    0.9599
+Bestparams:OrderedDict([('clf__max_depth', 31), ('clf__max_features', 'log2'), ('clf__n_estimators', 1007)])
+
+Fitting 1 folds for each of 1 candidates, totalling 1 fits
+[Parallel(n_jobs=3)]: Using backend LokyBackend with 3 concurrent workers.
+[Parallel(n_jobs=3)]: Done   1 out of   1 | elapsed: 30.1min finished
+Model 11:
+Best ROC-AUC:    0.9599
+Bestparams:OrderedDict([('clf__max_depth', 31), ('clf__max_features', 'log2'), ('clf__n_estimators', 1007)])
+
+Fitting 1 folds for each of 1 candidates, totalling 1 fits
+[Parallel(n_jobs=3)]: Using backend LokyBackend with 3 concurrent workers.
+[Parallel(n_jobs=3)]: Done   1 out of   1 | elapsed: 30.9min finished
+Model 12:
+Best ROC-AUC:    0.9599
+Bestparams:OrderedDict([('clf__max_depth', 31), ('clf__max_features', 'log2'), ('clf__n_estimators', 1007)])
+
+Fitting 1 folds for each of 1 candidates, totalling 1 fits
+[Parallel(n_jobs=3)]: Using backend LokyBackend with 3 concurrent workers.
+[Parallel(n_jobs=3)]: Done   1 out of   1 | elapsed: 14.8min finished
+Model 13:
+Best ROC-AUC:    0.9599
+Bestparams:OrderedDict([('clf__max_depth', 31), ('clf__max_features', 'log2'), ('clf__n_estimators', 1007)])
+
+Fitting 1 folds for each of 1 candidates, totalling 1 fits
+[Parallel(n_jobs=3)]: Using backend LokyBackend with 3 concurrent workers.
+[Parallel(n_jobs=3)]: Done   1 out of   1 | elapsed: 30.6min finished
+Model 14:
+Best ROC-AUC:    0.9599
+Bestparams:OrderedDict([('clf__max_depth', 31), ('clf__max_features', 'log2'), ('clf__n_estimators', 1007)])
+
+Fitting 1 folds for each of 1 candidates, totalling 1 fits
+[Parallel(n_jobs=3)]: Using backend LokyBackend with 3 concurrent workers.
+[Parallel(n_jobs=3)]: Done   1 out of   1 | elapsed: 15.2min finished
+Model 15:
+Best ROC-AUC:    0.9599
+Bestparams:OrderedDict([('clf__max_depth', 31), ('clf__max_features', 'log2'), ('clf__n_estimators', 1007)])
+
+/usr/local/lib/python3.6/dist-packages/skopt/optimizer/optimizer.py:409: UserWarning: The objective has been evaluated at this point before.
+  warnings.warn("The objective has been evaluated "
+Fitting 1 folds for each of 1 candidates, totalling 1 fits
+[Parallel(n_jobs=3)]: Using backend LokyBackend with 3 concurrent workers.
+[Parallel(n_jobs=3)]: Done   1 out of   1 | elapsed: 30.7min finished
+Model 16:
+Best ROC-AUC:    0.9599
+Bestparams:OrderedDict([('clf__max_depth', 31), ('clf__max_features', 'log2'), ('clf__n_estimators', 1007)])
+
+Fitting 1 folds for each of 1 candidates, totalling 1 fits
+[Parallel(n_jobs=3)]: Using backend LokyBackend with 3 concurrent workers.
+[Parallel(n_jobs=3)]: Done   1 out of   1 | elapsed: 31.0min finished
+Model 17:
+Best ROC-AUC:    0.9599
+Bestparams:OrderedDict([('clf__max_depth', 31), ('clf__max_features', 'log2'), ('clf__n_estimators', 1007)])
+
+Fitting 1 folds for each of 1 candidates, totalling 1 fits
+[Parallel(n_jobs=3)]: Using backend LokyBackend with 3 concurrent workers.
+[Parallel(n_jobs=3)]: Done   1 out of   1 | elapsed: 22.7min finished
+Model 18:
+Best ROC-AUC:    0.9599
+Bestparams:OrderedDict([('clf__max_depth', 31), ('clf__max_features', 'log2'), ('clf__n_estimators', 1007)])
+
+Fitting 1 folds for each of 1 candidates, totalling 1 fits
+[Parallel(n_jobs=3)]: Using backend LokyBackend with 3 concurrent workers.
+[Parallel(n_jobs=3)]: Done   1 out of   1 | elapsed: 23.2min finished
+Model 19:
+Best ROC-AUC:    0.9599
+Bestparams:OrderedDict([('clf__max_depth', 31), ('clf__max_features', 'log2'), ('clf__n_estimators', 1007)])
+
+Fitting 1 folds for each of 1 candidates, totalling 1 fits
+[Parallel(n_jobs=3)]: Using backend LokyBackend with 3 concurrent workers.
+[Parallel(n_jobs=3)]: Done   1 out of   1 | elapsed: 19.9min finished
+Model 20:
+Best ROC-AUC:    0.9599
+Bestparams:OrderedDict([('clf__max_depth', 31), ('clf__max_features', 'log2'), ('clf__n_estimators', 1007)])
